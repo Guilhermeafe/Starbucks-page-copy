@@ -15,7 +15,8 @@
      width: 100%; 
      display: flex;
      justify-content: space-between; 
-     align-items: center; 
+     align-items: center;
+     margin-top: -105px; 
  }
  
  .caixa-texto {
@@ -40,6 +41,7 @@
      border: none; 
      padding: 10px;
      border-radius: 20px;
+     cursor: pointer;
  }
  
  h2 {
@@ -61,6 +63,7 @@
  
  .logo {
      width: 80px;
+     
  }
  
  .starbucks {
@@ -87,4 +90,5 @@
     top: 0;
     left: 0;
     clip-path: circle(600px at right 800px);
+    margin-top: -158px;
 }
